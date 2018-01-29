@@ -1,4 +1,5 @@
 
+
 ### Automation Test
 These instructions prepare you to execute test for these features:
 - login
@@ -44,3 +45,6 @@ Generate report for all features:
 Generate report for a single feature:
 
     cucumber features/login.feature -f html -o report_login.html
+    
+**Note**
+ Enclosed with `report.html` for references
