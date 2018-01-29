@@ -10,4 +10,5 @@ gem 'capybara'
 gem 'cucumber'
 gem 'selenium-webdriver'
 gem 'geckodriver-helper'
-gem "chromedriver-helper"
+gem 'chromedriver-helper'
+gem 'rspec'
