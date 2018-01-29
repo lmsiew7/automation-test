@@ -37,7 +37,7 @@ Execute tests for a single feature:
 
     cucumber features/login.feature
 
-### Generate Test Report
+#### Generate Test Report
 Generate report for all features:
 
     cucumber -f html -o report.html
