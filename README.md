@@ -46,5 +46,5 @@ Generate report for a single feature:
 
     cucumber features/login.feature -f html -o report_login.html
     
-**Note**
+#### Note
  Enclosed with `report.html` for references
